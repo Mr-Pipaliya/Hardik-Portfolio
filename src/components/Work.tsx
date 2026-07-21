@@ -3,7 +3,16 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
-const projects = [
+interface Project {
+  title: string;
+  category: string;
+  tools: string;
+  image: string;
+  link?: string;
+  github?: string;
+}
+
+const projects: Project[] = [
   {
     title: "Pipaliya Plates",
     category: "Food Delivery Web Interface",
