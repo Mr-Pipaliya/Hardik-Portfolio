@@ -1,4 +1,4 @@
-# Deep Kabariya — Portfolio Website 🚀
+# Hardik Pipaliya — Portfolio Website 🚀
 
 A modern, interactive portfolio website built with **React**, **TypeScript**, **Three.js**, and **GSAP** animations featuring a 3D character model, physics-based tech stack visualization, and smooth scroll animations.
 
@@ -32,10 +32,6 @@ A modern, interactive portfolio website built with **React**, **TypeScript**, **
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/Deep-2308/portfolio.git
-cd portfolio
-
 # Install dependencies
 npm install
 
@@ -98,12 +94,8 @@ npm run build
 
 ## 👤 About Me
 
-**Deep Kabariya** — Computer Engineering Student at Gujarat Technological University, Surat.
+** Hardik Pipaliya** — Computer Engineering Student at Gujarat Technological University, Surat.
 Full Stack Developer specializing in the MERN stack with a passion for building scalable, secure web applications.
-
-- 🌐 [GitHub](https://github.com/Deep-2308)
-- 💼 [LinkedIn](https://linkedin.com/in/deep-kabariya)
-- 📧 deepkabariya2308@gmail.com
 
 ## 📄 License
 
